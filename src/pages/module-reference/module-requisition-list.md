@@ -42,4 +42,3 @@ The following directories contain extensible UI components:
 * `Magento\RequisitionList\view\frontend\ui_component` - requisition list listing
 
 For more information, see [UI Listing/Grid Component](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-listing-grid.html).
-

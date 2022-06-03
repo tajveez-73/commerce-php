@@ -20,4 +20,3 @@ This module is installed as part of Magento Open Source. Unless a custom impleme
 
 All public interfaces related to this module are located in the `InventoryConfigurationApi` module.
 Use the interfaces defined in `InventoryConfigurationApi` to extend this module.
-

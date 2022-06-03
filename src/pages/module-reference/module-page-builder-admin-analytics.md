@@ -7,4 +7,3 @@ description: README.md contents of the module from the source code
 
 The Magento_PageBuilderAdminAnalytics module tracks Page Builder information through AdminAnalytics.
 
-

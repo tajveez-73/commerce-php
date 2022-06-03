@@ -24,4 +24,3 @@ Use the interfaces defined in `InventoryReservationsApi` to extend this module.
 ## Additional information
 
 The `InventoryReservations` module creates the `inventory_cleanup_reservations` cron job.
-

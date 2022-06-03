@@ -44,4 +44,3 @@ This module introduces the following layouts and layout handles in the directori
     - `print`
     
 For more information about a layout, see the [Layout documentation](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html).
-

@@ -28,4 +28,3 @@ The Magento_BundleRequisitionList module does not create any backward incompatib
 You can extend and override layouts in the `Magento\BundleRequisitionList\view\frontend\layout` directories.
 
 For more information about layouts, see the [Layout documentation](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html).
-

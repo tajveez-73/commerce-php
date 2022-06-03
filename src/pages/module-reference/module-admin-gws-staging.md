@@ -24,4 +24,3 @@ The Magento_AdminGwsStaging module does not provide any specific extension point
 ## Additional information
 
 For more Magento 2 developer documentation, see [Magento 2 Developer Documentation](https://devdocs.magento.com).
-

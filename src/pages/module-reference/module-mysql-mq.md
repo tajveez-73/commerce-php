@@ -31,4 +31,3 @@ For information about significant changes in patch releases, see [2.3.x Release 
 cron group configuration can be set in `etc/crontab.xml`.
 
 - `mysqlmq_clean_messages` - clean up old messages from database
-

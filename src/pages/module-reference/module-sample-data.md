@@ -80,4 +80,3 @@ The deleted sample data entities will be restored. Those entities, which were ch
 ## Documentation
 
 You can find the more detailed description of sample data manipulation procedures at <https://devdocs.magento.com/guides/v2.4/install-gde/install/cli/install-cli-sample-data.html>.
-

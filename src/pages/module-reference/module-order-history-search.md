@@ -30,4 +30,3 @@ The Magento_OrderHistorySearch module serves to handle advanced orders filtering
 ## Additional information
 
 ...
-

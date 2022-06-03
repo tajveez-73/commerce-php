@@ -43,4 +43,3 @@ The module interacts with the following layout handles in the `view/frontend/lay
 - `catalogsearch_result_index`
 
 For more information about layouts in Magento 2, see the [Layout documentation](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html).
-

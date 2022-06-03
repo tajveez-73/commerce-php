@@ -5,7 +5,7 @@ description: README.md contents of the module from the source code
 
 # Magento_QuoteAnalytics module
 
-This module configures data definitions for a data collection related to the Quote module entities to be used in [Advanced Reporting](https://devdocs.magento.com/guides/v2.4/advanced-reporting/modules.html).
+This module configures data definitions for a data collection related to the Quote module entities to be used in [Advanced Reporting](https://devdocs.magento.com/guides/v2.3/advanced-reporting/modules.html).
 
 ## Installation
 
@@ -22,4 +22,3 @@ For information about a module installation in Magento 2, see [Enable or disable
 More information can get at articles:
 - [Advanced Reporting](https://devdocs.magento.com/guides/v2.4/advanced-reporting/overview.html)
 - [Data collection for advanced reporting](https://devdocs.magento.com/guides/v2.4/advanced-reporting/data-collection.html)
-

@@ -51,4 +51,3 @@ You can extend Magento_AsynchronousOperations module using the following configu
 - `retriable_operation_modal_listing`
 
 For information about UI components in Magento 2, see [Overview of UI components](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html).
-

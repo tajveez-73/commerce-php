@@ -26,4 +26,3 @@ The Magento_ConfigurableRequisitionList module has a dependency on the Magento_R
 You can extend and override layouts in the `Magento\ConfigurableRequisitionList\view\frontend\layout` directories.
 
 For more information about layouts, see the [Layout documentation](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html).
-

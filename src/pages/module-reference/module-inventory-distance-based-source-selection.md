@@ -19,4 +19,3 @@ This module is installed as part of Magento Open Source.
 
 All public interfaces related to this module are located in the `InventoryDistanceBasedSourceSelectionApi` module.
 Use the interfaces defined in `InventoryDistanceBasedSourceSelectionApi` to extend this module.
-

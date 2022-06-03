@@ -27,4 +27,3 @@ You can extend and override layouts defined in the `view/adminhtml/layout` direc
 ### UI Components
 
 The `view/adminhtml/ui_component` directory contains extensible UI components.
-

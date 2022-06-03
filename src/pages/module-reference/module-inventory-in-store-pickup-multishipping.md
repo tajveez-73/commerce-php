@@ -17,4 +17,3 @@ describes the MSI (Multi-Source Inventory) project in more detail.
 
 This module is installed as part of Magento Open Source. Unless a custom implementation for `InventoryInStorePickupMultishipping`
 is provided by a 3rd-party module, the module cannot be deleted or disabled.
-

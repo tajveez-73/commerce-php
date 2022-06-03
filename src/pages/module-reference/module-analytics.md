@@ -55,4 +55,3 @@ The following options can be adjusted:
 ## Extensibility
 
 We do not recommend to extend the Magento_Analytics module. It introduces an API that is purposed to transfer the collected data. Note that the API cannot be used for other needs.
-

@@ -21,4 +21,3 @@ Please check links for more details:
 ## Installation details
 
 This module is installed as part of Magento Open Source.
-

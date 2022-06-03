@@ -9,4 +9,3 @@ Magento_CatalogPermissions feature allows to restrict the following permissions:
 - Add to cart
 - Catalog search
 The permissions can be restricted for specific customer groups and guest users.
-

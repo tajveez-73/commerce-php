@@ -20,4 +20,3 @@ is provided by a 3rd-party module, the module cannot be deleted or disabled.
 
 The `InventoryInStorePickupSalesApi` module contains extension points and APIs that 3rd-party developers
 can use to provide customization of In-Store Pickup functionality
-

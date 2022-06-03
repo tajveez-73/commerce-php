@@ -60,4 +60,3 @@ You can extend the purchase order rule listings using the `purchase_order_rule_l
 ## Additional information
 ​
 Check the [B2B release notes](https://devdocs.magento.com/guides/v2.4/release-notes/b2b-release-notes.html) for more information on new changes.
-

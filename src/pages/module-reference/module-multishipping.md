@@ -142,4 +142,3 @@ More information about [layout types](https://devdocs.magento.com/guides/v2.4/fr
 
 
 For information about significant changes in patch releases, see [2.3.x Release information](http://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html).
-

@@ -38,4 +38,3 @@ The following directory contains extensible UI components:
 * `Magento\CompanyShipping\view\frontend\ui_component` - company form
 
 For more information, see [UI Form Component](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-form.html).
-

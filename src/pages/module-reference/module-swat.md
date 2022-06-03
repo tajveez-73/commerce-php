@@ -12,4 +12,3 @@ The Magento_Swat module does not affect the storefront.
 ## Additional information
 
 For more information about this module, see [Site-Wide Analysis Tool](https://docs.magento.com/user-guide/reports/site-wide-analysis-tool.html)
-

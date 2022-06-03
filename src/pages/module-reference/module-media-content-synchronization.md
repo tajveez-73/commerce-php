@@ -17,4 +17,3 @@ Extension developers can interact with the Magento_MediaContentSynchronization m
 ## Additional information
 
 For information about significant changes in patch releases, see [Release information](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html).
-

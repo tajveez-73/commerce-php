@@ -300,4 +300,3 @@ For information about an event in Magento 2, see [Events and observers](http://d
     
 For information about a public API in Magento 2, see [Public interfaces & APIs](http://devdocs.magento.com/guides/v2.4/extension-dev-guide/api-concepts.html).
 
-

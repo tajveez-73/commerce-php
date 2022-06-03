@@ -18,4 +18,3 @@ You can find the list of modules that have dependencies on the Magento_CatalogUr
 ## Extension points
 
 Extensions points for the Magento_CatalogUrlRewriteStaging module are not available.
-

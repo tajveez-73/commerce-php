@@ -47,4 +47,3 @@ For example, adding these lines of code to the theme view.xml file will set the 
     <var name="gallery_switch_strategy">replace</var>
 </vars>
 ```
-

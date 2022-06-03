@@ -19,4 +19,3 @@ is provided by a 3rd-party system or if you run a headless version of Magento.
 ## Extensibility
 
 There are no extension points or for this module.
-

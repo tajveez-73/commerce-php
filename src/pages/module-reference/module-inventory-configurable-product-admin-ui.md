@@ -23,4 +23,3 @@ The `InventoryConfigurableProductAdminUi` module contains several extension poin
 ### UI Components
 
 The `view/adminhtml/ui_component` directory contains extensible UI components.
-

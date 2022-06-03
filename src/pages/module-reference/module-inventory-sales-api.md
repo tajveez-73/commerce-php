@@ -27,4 +27,3 @@ Public APIs are defined in the `Api` and `Api/Data` directories.
 ### REST endpoints
 
 The `etc/webapi.xml` file defines endpoints for determining whether a salable amount of products are available for purchase.
-

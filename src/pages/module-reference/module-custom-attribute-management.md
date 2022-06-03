@@ -10,4 +10,3 @@ User defined attributes are attributes which are created by admin user and not a
 This attributes can be deleted from the system after their creation.
 System attributes are attributes which cannot be deleted from the system in usual way and admin user can edit only their label.
 Hidden attribute is an attribute which is hidden from the user on back-end and on front-end.
-

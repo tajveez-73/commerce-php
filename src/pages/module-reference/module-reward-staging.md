@@ -20,4 +20,3 @@ You can find the list of modules that have dependencies on the Magento_RewardSta
 ## Extension points
 
 Extension points enable extension developers to interact with the Magento_RewardStaging module. [The Magento dependency injection mechanism](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/depend-inj.html) enables you to override the functionality of the Magento_RewardStaging module.
-

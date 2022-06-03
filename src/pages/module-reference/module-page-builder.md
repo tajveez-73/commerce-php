@@ -53,4 +53,3 @@ The following example disables the PageBuilder editor for the content field.
 ```
 
 **Note:** Disabling the editor this way overrides the value of `is_pagebuilder_enabled` for the specified field.
-

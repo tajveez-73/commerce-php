@@ -23,4 +23,3 @@ index names based on the provided scope. The multi-dimension indexes are introdu
 and the ability to reindex data in the scope of particular dimension only.
 
 An aliasing mechanism guarantees zero downtime to make Front-End responsive while Full Reindex being processed.
-

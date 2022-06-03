@@ -50,4 +50,3 @@ Cron group configuration can be set at `etc/crontab.xml`:
 
 [Learn how to configure and run cron in Magento.](http://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-cron.html).
 
-

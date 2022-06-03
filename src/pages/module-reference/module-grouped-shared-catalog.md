@@ -40,4 +40,3 @@ The following directory contains extensible UI components:
 * `Magento\GroupedSharedCatalog\view\adminhtml\ui_component` - renderer for pricing and structure listings
 
 For more information, see [UI Listing/Grid Component](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-listing-grid.html).
-

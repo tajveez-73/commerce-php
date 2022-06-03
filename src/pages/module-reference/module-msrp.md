@@ -126,4 +126,3 @@ A current module extends `etc/catalog_attributes.xml` and provides following att
 The Magento_Msrp provides extension attributes for `Magento\Catalog\Api\Data\ProductRender\PriceInfoInterface`
 - attribute code: `msrp`
 - attribute type: `Magento\Msrp\Api\Data\ProductRender\MsrpPriceInfoInterface`
-

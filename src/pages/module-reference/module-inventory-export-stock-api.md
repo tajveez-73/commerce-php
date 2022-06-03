@@ -19,4 +19,3 @@ is provided by a 3rd-party system or if you run a headless version of Magento.
 ## Extension points and service contracts
 
 There are no extension points or service contracts for this module.
-

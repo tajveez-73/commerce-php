@@ -44,4 +44,3 @@ For more information, see [UI Listing/Grid Component](https://devdocs.magento.co
 ## Additional information
 
 You can track [backward incompatible changes made in a Magento B2b mainline after the Magento 2.2 release](https://devdocs.magento.com/guides/v2.4/release-notes/b2b-release-notes.html).
-

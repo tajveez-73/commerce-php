@@ -27,4 +27,3 @@ in next components declaration:
 
 ## Precautions
  - To avoid mixed content and to work properly, Staging Site Preview feature requires both Storefront and Admin area to be under the same protocol (http or https).
-

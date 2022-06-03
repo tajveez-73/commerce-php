@@ -30,4 +30,3 @@ For information about UI components in Magento 2, see [Overview of UI components
 ## Additional information
 
 For information about significant changes in patch releases, see [2.3.x Release information](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html).
-

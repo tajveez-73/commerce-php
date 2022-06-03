@@ -24,4 +24,3 @@ Extension points enable extension developers to interact with the Magento_Layere
 
 You can extend and override layouts in the `Magento/LayeredNavigationStaging/view/frontend/layout/` directory.
 For more information about layouts, see the [Layout documentation](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html).
-

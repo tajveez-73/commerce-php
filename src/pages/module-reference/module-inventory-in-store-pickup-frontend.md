@@ -20,4 +20,3 @@ is provided by a 3rd-party module, the module cannot be deleted or disabled.
 
 All public interfaces related to this module are located in the `InventoryInStorePickupApi` module.
 Use the interfaces defined in `InventoryInStorePickupApi` to extend this module.
-

@@ -34,4 +34,3 @@ Extension developers can interact with the Magento_GroupedRequisitionList module
 You can extend and override layouts in the `Magento\GroupedRequistionList\view\frontend\layout` directories.
 
 For more information about layouts, see the [Layout documentation](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html).
-

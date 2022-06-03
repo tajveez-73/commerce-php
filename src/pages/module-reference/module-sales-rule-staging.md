@@ -41,4 +41,3 @@ For more information about Magento extension mechanism, see [Magento plug-ins](h
 ## Additional information
 
 For more Magento 2 developer documentation, see [Magento 2 Developer Documentation](https://devdocs.magento.com).
-

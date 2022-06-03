@@ -66,7 +66,7 @@ This module introduces the following layouts and layout handles in the directori
 - `view/base/layout`:
     - `catalog_product_prices`
 
-- `view/frontend/layout`:
+- `view/frantend/layout`:
     - `checkout_cart_index`
     - `checkout_index_index`
     - `checkout_item_price_renderers`
@@ -102,4 +102,3 @@ You can extend a customer form and widgets using the configuration files located
     - `widget_recently_viewed`
 
 For information about a UI component, see [Overview of UI components](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html).
-
